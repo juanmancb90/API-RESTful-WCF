@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\ServiceRestFulTest\ServiceRestFulTest\bin\ServiceRestFulTest.dll.config
+c:\users\user\documents\visual studio 2013\Projects\ServiceRestFulTest\ServiceRestFulTest\bin\ServiceRestFulTest.dll
+c:\users\user\documents\visual studio 2013\Projects\ServiceRestFulTest\ServiceRestFulTest\bin\ServiceRestFulTest.pdb
+c:\users\user\documents\visual studio 2013\Projects\ServiceRestFulTest\ServiceRestFulTest\obj\Debug\ServiceRestFulTest.dll
+c:\users\user\documents\visual studio 2013\Projects\ServiceRestFulTest\ServiceRestFulTest\obj\Debug\ServiceRestFulTest.pdb
